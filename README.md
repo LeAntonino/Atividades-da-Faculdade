@@ -8,7 +8,7 @@ main: armazena a função Lista(), que armazena a lista Numeros = [10, 23, 5, 8,
 
 teste: importa o módulo main e utiliza a lista Numeros como listadenumeros, e exibe:
 
-> a média dos valores da lista
-> o maior valor da lista
-> o menor valor da lista
-> a soma dos números pares na lista
+* a média dos valores da lista
+* o maior valor da lista
+* o menor valor da lista
+* a soma dos números pares na lista
